@@ -23,11 +23,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VzF-Jh-b9b">
-                                <rect key="frame" x="63" y="601" width="288" height="114"/>
+                                <rect key="frame" x="63" y="454" width="288" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="tinted" title="Get Started!"/>
+                                <buttonConfiguration key="configuration" style="tinted" title="Get Started!!"/>
                                 <connections>
                                     <segue destination="gET-3v-K29" kind="show" id="zbq-XF-Wks"/>
                                 </connections>
