@@ -44,9 +44,9 @@
         <!--View Controller-->
         <scene sceneID="Mfo-78-O0Y">
             <objects>
-                <viewController id="gET-3v-K29" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="gET-3v-K29" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="HFS-1L-XV6">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Your Favorite Shows!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mYH-fn-0X1">
@@ -117,11 +117,511 @@
             <point key="canvasLocation" x="821.73913043478262" y="69.642857142857139"/>
         </scene>
         <!--View Controller-->
+        <scene sceneID="yEO-sw-m3g">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="0bt-An-8wk" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="bXl-j0-bBW">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Loreali Gilmore" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lr1-Da-FtF">
+                                <rect key="frame" x="62" y="44" width="291" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="4UI-O0-IDQ"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="4Xe-RX-Z68"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="L67-wi-l22" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-5720" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="HSM-LT-m3W">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="8Jm-y6-pmv" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="MYF-0A-Ak7">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Rory Gilmore" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k1n-JF-TWD">
+                                <rect key="frame" x="80" y="44" width="255" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6OO-P4-0ua"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="268-T1-yhy"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iZ7-Pd-N6W" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-4948" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="hlw-zK-NRy">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="cPG-15-66W" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="U1w-BF-daE">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Luke Danes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A1a-bD-ndM">
+                                <rect key="frame" x="80" y="44" width="212" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Ohi-Vt-00o"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="2Lp-99-K7C"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x9O-Go-Aeg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-4180" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="lib-cl-kN1">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="t4G-4Y-7tl" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="QOZ-Ad-4uP">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Paris Geller" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b2C-Rc-ijO">
+                                <rect key="frame" x="95" y="44" width="224" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="ZgP-ya-oJd"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="byk-YD-a21"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="pMY-Qm-Qkb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-3365" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Vz5-nM-Wxu">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="X2b-re-sRe" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="vL2-R9-Bf9">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Lane Kim" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JIn-XR-3ww">
+                                <rect key="frame" x="118" y="44" width="179" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="sQw-YI-GUR"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="bBt-qx-GJr"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aSK-Gp-Sij" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2523" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="fvH-GI-37t">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="OUa-So-qST" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Bgq-Og-AOz">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Eleven" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OH9-kB-STy">
+                                <rect key="frame" x="144" y="44" width="127" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="wrd-IG-9QT"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="g99-N0-jrm"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dKu-yY-bTw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-4761" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="aTh-df-4Us">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="HoV-3v-NPn" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="dgi-14-w6z">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Mike Wheeler" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UyQ-LR-omG">
+                                <rect key="frame" x="67" y="44" width="280" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="gFh-lh-cPm"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="0YY-j9-0mM"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iGN-J8-eWk" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-4058" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="uBp-fY-a7u">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="C4q-ta-KIr" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="DBr-Gy-kpR">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Max Mayfield" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nie-tc-wis">
+                                <rect key="frame" x="68" y="44" width="279" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="NNH-wQ-qEs"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="sDG-5Z-58X"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jU9-jN-QEW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-3365" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="gOV-sp-VQQ">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="Kpf-Ow-8nz" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="lhx-xy-IpR">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Steve Harrigton" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O5g-kZ-dO9">
+                                <rect key="frame" x="49" y="44" width="316" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="qei-4b-0ze"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="RjZ-xX-wVl"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="1LP-38-KmK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2662" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Vb9-ig-s2U">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="tWf-E7-67q" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="4Sf-DX-fNv">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nancy Wheeler" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lWh-C4-esd">
+                                <rect key="frame" x="55" y="44" width="305" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="jou-Im-bfp"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="Exq-86-Bnq"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zP7-Me-8GU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1942" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="iLJ-PB-53u">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="6fl-ut-bpe" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="tK4-Sd-x1F">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Belly Corkin" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gIw-mq-jba">
+                                <rect key="frame" x="89" y="44" width="236" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="CpT-DD-KH3"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="lgI-B0-Txs"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5ga-LJ-EvH" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-812" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="psg-WN-hkU">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="B7e-z7-5ny" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Wh0-wQ-P68">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Jeremiah Fisher" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hNs-PQ-Xbs">
+                                <rect key="frame" x="55" y="44" width="309" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="o7l-KD-8Ae"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="b3w-sD-FGa"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qUU-rS-iFu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-130" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="mQQ-SD-qWA">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="VN2-rd-0is" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="uA7-vT-AuA">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Conrad Fisher" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wz4-hj-5We">
+                                <rect key="frame" x="73" y="44" width="268" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Wue-b0-dDP"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="QhL-SD-yQj"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ph2-Md-ZCr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="570" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Hes-9f-jP4">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="XGk-fm-3MB" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Tm5-6B-gP9">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Taylor Jewel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vau-hi-XXk">
+                                <rect key="frame" x="85" y="44" width="244" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="iBt-dA-JXA"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="SsZ-Gr-imh"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="g0e-Ef-K4B" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1255" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="nnB-du-giy">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="xCg-fA-Ui6" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="gkQ-ev-NLl">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Shayla Wang" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Z9g-re-Wmb">
+                                <rect key="frame" x="76" y="44" width="262" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="KeE-y3-ugz"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="zlt-Lf-rJ4"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zdx-SJ-cga" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1946" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="MHU-0s-45K">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="e9c-oe-SXq" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Yzb-rL-xff">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Blair Waldorf" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MBm-3y-EPn">
+                                <rect key="frame" x="76" y="44" width="270" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="GqV-0G-cMe"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="RKr-Ac-WKF"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="v9Z-Fb-fut" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3086.9565217391305" y="1751.7857142857142"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="j7i-q4-Jq8">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="wW5-33-Css" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Bum-mv-wwu">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Serena Van Dor Woodson" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="odw-JK-VYy">
+                                <rect key="frame" x="19" y="44" width="377" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="35"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="sIj-rD-8gb"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="f9s-zG-fcd"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hCK-71-9Ox" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3808.6956521739135" y="1751.7857142857142"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="3h5-fF-iYH">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="bA9-dM-Lu6" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8I9-vi-eIs">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nate Archibald" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PoK-Zp-CgL">
+                                <rect key="frame" x="60" y="44" width="295" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="R6n-tZ-zHO"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="nHj-wX-ip9"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="egx-tw-lhL" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4558" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="7WC-lY-Tpq">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="3fd-YZ-cap" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="PSP-f3-bQk">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Chuck Bass" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rw6-eC-gcY">
+                                <rect key="frame" x="102" y="44" width="210" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="eai-1W-e0X"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="O7s-Xt-mpY"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="v39-aI-DqZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5241" y="1752"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="xFx-1E-ici">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="Uds-c1-Fy5" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Nbk-8O-yqz">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Jenny Humphrey" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jEn-Gn-jyf">
+                                <rect key="frame" x="45" y="44" width="325" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="zS9-oc-0nh"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="Fiv-85-NRJ"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QZs-j2-MtB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5925" y="1752"/>
+        </scene>
+        <!--View Controller-->
         <scene sceneID="1Eq-8S-Yey">
             <objects>
-                <viewController id="MH6-C9-4hr" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="MH6-C9-4hr" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="1DG-Gg-k9O">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Characters" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BLm-8V-M6J">
@@ -137,6 +637,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Lorelai Gilmore"/>
+                                <connections>
+                                    <segue destination="0bt-An-8wk" kind="show" id="MFK-cd-tiP"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ofl-ME-DW8">
                                 <rect key="frame" x="20" y="262" width="373" height="101"/>
@@ -144,6 +647,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Rory Gilmore"/>
+                                <connections>
+                                    <segue destination="8Jm-y6-pmv" kind="show" id="23S-ts-j26"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZPa-6V-kMa">
                                 <rect key="frame" x="21" y="536" width="373" height="101"/>
@@ -151,6 +657,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Paris Geller"/>
+                                <connections>
+                                    <segue destination="t4G-4Y-7tl" kind="show" id="P0V-ux-mSS"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wg3-wd-PRe">
                                 <rect key="frame" x="20" y="665" width="373" height="101"/>
@@ -158,6 +667,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Lane Kim"/>
+                                <connections>
+                                    <segue destination="X2b-re-sRe" kind="show" id="V2b-ZB-fVe"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QBE-eX-37z">
                                 <rect key="frame" x="20" y="400" width="373" height="101"/>
@@ -165,6 +677,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Luke Danes"/>
+                                <connections>
+                                    <segue destination="cPG-15-66W" kind="show" id="5xc-hl-6Xy"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="fIV-uC-t8g"/>
@@ -179,9 +694,9 @@
         <!--View Controller-->
         <scene sceneID="t09-EC-7ve">
             <objects>
-                <viewController id="pmN-vw-rU7" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="pmN-vw-rU7" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="nUf-fc-Wk6">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Characters" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c4M-1B-d7f">
@@ -197,6 +712,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Mike Wheeler"/>
+                                <connections>
+                                    <segue destination="HoV-3v-NPn" kind="show" id="tmr-Ze-XCh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUZ-5i-LlA">
                                 <rect key="frame" x="21" y="385" width="373" height="101"/>
@@ -204,6 +722,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Max Mayfield"/>
+                                <connections>
+                                    <segue destination="C4q-ta-KIr" kind="show" id="NeS-3V-rZb"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8oD-LW-kbc">
                                 <rect key="frame" x="20" y="517" width="373" height="101"/>
@@ -211,6 +732,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Steve Harrigton"/>
+                                <connections>
+                                    <segue destination="Kpf-Ow-8nz" kind="show" id="L7G-XN-jSH"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b2B-Yv-4ZF">
                                 <rect key="frame" x="20" y="650" width="373" height="101"/>
@@ -218,6 +742,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Nancy Wheeler"/>
+                                <connections>
+                                    <segue destination="tWf-E7-67q" kind="show" id="ltd-UH-vs6"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bio-ya-lXb">
                                 <rect key="frame" x="20" y="131" width="373" height="101"/>
@@ -225,6 +752,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Eleven"/>
+                                <connections>
+                                    <segue destination="OUa-So-qST" kind="show" id="fme-gv-Xyv"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="JE7-ew-CgD"/>
@@ -239,9 +769,9 @@
         <!--View Controller-->
         <scene sceneID="qj4-nl-RH9">
             <objects>
-                <viewController id="dfr-Z1-LFF" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="dfr-Z1-LFF" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mC9-d5-5vf">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Characters" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1GM-4t-qbm">
@@ -257,6 +787,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Jeremiah Fisher"/>
+                                <connections>
+                                    <segue destination="B7e-z7-5ny" kind="show" id="kNd-bu-OFB"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HEk-Qk-7o7">
                                 <rect key="frame" x="21" y="398" width="373" height="101"/>
@@ -264,6 +797,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Conrad Fisher"/>
+                                <connections>
+                                    <segue destination="VN2-rd-0is" kind="show" id="qxg-UA-7ta"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dyp-R9-0d4">
                                 <rect key="frame" x="21" y="527" width="373" height="101"/>
@@ -271,6 +807,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Taylor Jewel"/>
+                                <connections>
+                                    <segue destination="XGk-fm-3MB" kind="show" id="R5g-Ye-405"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x7u-ZP-uQP">
                                 <rect key="frame" x="21" y="653" width="373" height="101"/>
@@ -278,6 +817,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Shayla Wang"/>
+                                <connections>
+                                    <segue destination="xCg-fA-Ui6" kind="show" id="H2M-9E-VxK"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Mw-6S-g23">
                                 <rect key="frame" x="20" y="127" width="373" height="101"/>
@@ -285,6 +827,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Belly Conklin"/>
+                                <connections>
+                                    <segue destination="6fl-ut-bpe" kind="show" id="kRw-9D-6bq"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="aip-7V-E2l"/>
@@ -299,9 +844,9 @@
         <!--View Controller-->
         <scene sceneID="hhh-hX-LBs">
             <objects>
-                <viewController id="mtF-sd-8wg" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="mtF-sd-8wg" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="WQd-LV-shR">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Characters" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qBf-Kw-vML">
@@ -317,6 +862,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Blair Waldorf"/>
+                                <connections>
+                                    <segue destination="e9c-oe-SXq" kind="show" id="e4M-Pq-7Bq"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IYt-XK-hnR">
                                 <rect key="frame" x="20" y="239" width="373" height="101"/>
@@ -324,6 +872,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Serena Van der Woodsen"/>
+                                <connections>
+                                    <segue destination="wW5-33-Css" kind="show" id="FTL-gX-lZy"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vqr-ox-SEJ">
                                 <rect key="frame" x="20" y="371" width="373" height="101"/>
@@ -331,6 +882,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Nate Archibald"/>
+                                <connections>
+                                    <segue destination="bA9-dM-Lu6" kind="show" id="6HW-7d-Exg"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Sh6-l2-gbH">
                                 <rect key="frame" x="20" y="509" width="373" height="101"/>
@@ -338,6 +892,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Chuck Bass"/>
+                                <connections>
+                                    <segue destination="3fd-YZ-cap" kind="show" id="MDZ-oo-BLE"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UuE-st-EwE">
                                 <rect key="frame" x="20" y="648" width="373" height="101"/>
@@ -345,6 +902,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Jenny Humphrey"/>
+                                <connections>
+                                    <segue destination="Uds-c1-Fy5" kind="show" id="76r-Fr-j1d"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="twy-p5-2oy"/>
@@ -359,9 +919,9 @@
         <!--View Controller-->
         <scene sceneID="m0u-zv-gH9">
             <objects>
-                <viewController id="8PE-fE-G3R" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="8PE-fE-G3R" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Uiw-vX-1G8">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7aW-AH-8NB">
@@ -370,6 +930,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Rue Bennett"/>
+                                <connections>
+                                    <segue destination="EGt-26-6Ou" kind="show" id="aM5-xU-YMK"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vz6-rM-3Bb">
                                 <rect key="frame" x="21" y="251" width="373" height="101"/>
@@ -377,6 +940,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Cassie Howard"/>
+                                <connections>
+                                    <segue destination="Xcj-GW-ilj" kind="show" id="NeS-8y-Nx1"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jqz-n5-UNM">
                                 <rect key="frame" x="21" y="388" width="373" height="101"/>
@@ -384,6 +950,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Maddy Perez"/>
+                                <connections>
+                                    <segue destination="YAI-Es-sKV" kind="show" id="ani-Nn-mOy"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3r8-I1-KBU">
                                 <rect key="frame" x="20" y="522" width="373" height="101"/>
@@ -391,6 +960,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Fezco"/>
+                                <connections>
+                                    <segue destination="COE-Ca-7sS" kind="show" id="W84-VX-2d1"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kfL-Zp-T2m">
                                 <rect key="frame" x="21" y="656" width="373" height="101"/>
@@ -398,6 +970,9 @@
                                 <color key="tintColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="tinted" title="Jules Vaughn"/>
+                                <connections>
+                                    <segue destination="qwr-2i-GnX" kind="show" id="W3l-bG-sed"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Characters" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fai-qJ-hCe">
                                 <rect key="frame" x="97" y="33" width="218" height="53"/>
@@ -415,6 +990,131 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wU6-Qv-sgc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2177" y="848"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="15G-tB-CMf">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="EGt-26-6Ou" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="9KM-j7-YwR">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Rue Bennett" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k4I-p1-aEv">
+                                <rect key="frame" x="72" y="75" width="244" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Kfy-cw-3dA"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="l0p-Ow-P9l"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0CL-Cx-IHI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4033" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="odk-lP-m0I">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="Xcj-GW-ilj" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="nVG-jk-j6p">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Cassie Howard" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eGb-Uh-Qqn">
+                                <rect key="frame" x="85" y="44" width="279" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="SRd-pc-WLS"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="uZw-Bm-Lxg"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Sng-cG-xwc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4753.6231884057979" y="535.71428571428567"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="zXJ-Au-euo">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="YAI-Es-sKV" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="QZ7-e5-ftm">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Maddy Perez" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PoN-t7-yJf">
+                                <rect key="frame" x="85" y="44" width="255" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="2Ea-oY-xpe"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="r37-kn-di0"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="e9H-Gx-3qP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5484" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="ufx-0c-Fxu">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="COE-Ca-7sS" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="1eM-sW-CMW">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Fezco" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A2f-Lk-cWX">
+                                <rect key="frame" x="154" y="44" width="106" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Wz-1H-GWc"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="7gw-G9-yIp"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Q0J-L2-OIK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="6243" y="536"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="JWk-if-ccD">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="qwr-2i-GnX" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="wWo-nf-H5W">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Jules Vaughn" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SIL-A5-FMW">
+                                <rect key="frame" x="85" y="44" width="248" height="53"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="48"/>
+                                <color key="textColor" red="0.47843137250000001" green="0.33333333329999998" blue="0.2274509804" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6ht-HG-sEM"/>
+                        <color key="backgroundColor" red="0.84705882349999995" green="0.73725490199999999" blue="0.58039215690000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="dOf-yc-pLC"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aDj-Lo-CWS" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="6935" y="536"/>
         </scene>
     </scenes>
 </document>
